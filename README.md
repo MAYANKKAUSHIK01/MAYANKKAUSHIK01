@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I’m currently learning WEB Development
+ 🌱 I’m currently looking for Internships
 
 
 ## 🌐 Socials:
