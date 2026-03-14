@@ -83,11 +83,10 @@ class Developer:
         return {
             "languages": ["Python", "JavaScript", "C++", "R"],
             "frontend": ["React", "Next.js", "TailwindCSS", "Bootstrap"],
-            "backend": ["Node.js", "Django", "FastAPI", "Express"],
-            "databases": ["MongoDB", "MySQL", "Supabase", "Firebase"],
+            "backend": ["Node.js", "FastAPI", "Express"],
+            "databases": ["MongoDB", "MySQL"],
             "ml_ai": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-            "tools": ["Git", "Docker", "AWS", "Vercel"],
-            "currently_learning": ["Web3.js", "Unreal Engine", "Advanced ML"]
+            "tools": ["Git", "Docker", "AWS", "Vercel"]
         }
     
     def say_hi(self):
@@ -126,29 +125,18 @@ mayank.say_hi()
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -165,13 +153,6 @@ mayank.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
-### 🌐 Web3 & Blockchain
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 </div>
 
@@ -245,8 +226,6 @@ mayank.say_hi()
 | 🔥 AI Web App | AI-powered web application | React, Python, TensorFlow | 🟢 Active |
 | ⚡ E-Commerce | Full-featured online store | Next.js, MongoDB, Stripe | 🟡 In Progress |
 | 🌟 Data Viz | Interactive analytics dashboard | D3.js, FastAPI, PostgreSQL | 🟢 Active |
-| 🎮 Game Engine | Custom 2D game framework | C++, OpenGL, SDL2 | 🔴 Planning |
-| 🔗 DeFi Platform | Decentralized finance app | Web3.js, Solidity, React | 🟡 In Progress |
 
 ```
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
@@ -261,21 +240,19 @@ mayank.say_hi()
 ```javascript
 const goals2026 = {
   personal: [
-    "✅ Master Advanced Machine Learning",
-    "✅ Contribute to 50+ Open Source Projects",
-    "✅ Build 10 Full-Stack Applications",
-    "⏳ Launch a SaaS Product",
+    "⏳ Master Advanced Machine Learning",
+    "⏳ Contribute to 50+ Open Source Projects",
+    "⏳ Build 10 Full-Stack Applications",
     "⏳  GET Mentorship By senior Developers"
   ],
   technical: [
-    "✅ Deep dive into Web3 Development",
+    "⏳ Deep dive into Web3 Development",
     "⏳ Master System Design",
     "⏳ Get AWS & Google Cloud Certified",
     "⏳ Build AI Projects with real-world impact"
   ],
   fun: [
     "✅ Attend Tech Conferences",
-    "⏳ Start a Tech YouTube Channel",
     "⏳ Collaborate with Developers Worldwide"
   ]
 };
@@ -288,19 +265,17 @@ const goals2026 = {
 ## 💬 LETS_COLLABORATE
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║    🤝 OPEN FOR COLLABORATIONS                                                           ║
-║                                                                                          ║
+╔═════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                         ║
+║    🤝 OPEN FOR COLLABORATIONS                                                          ║
+║                                                                                         ║
 ║    ┌─────────────────────────────────────────────────────────────────────────────────┐  ║
-║    │  🌐  Full Stack Web Development                                                 │  ║
-║    │  🤖  Machine Learning & AI Projects                                             │  ║
-║    │  📊  Data Science & Analytics                                                   │  ║
-║    │  🎮  Game Development                                                            │  ║
-║    │  🔗  Blockchain & Web3                                                           │  ║
+║    │  🌐  Full Stack Web Development                                                │  ║
+║    │  🤖  Machine Learning & AI Projects                                            │  ║
+║    │  📊  Data Science & Analytics                                                  │  ║
 ║    └─────────────────────────────────────────────────────────────────────────────────┘  ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
+║                                                                                         ║
+╚═════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### 📧 Reach out to me:
@@ -318,10 +293,9 @@ const goals2026 = {
 
 ```python
 fun_facts = [
-    "🎮 Avid gamer - Xbox & PC Gaming enthusiast",
+    "🎮 Avid gamer - Gaming enthusiast",
     "🚀 Space tech enthusiast",
     "☕ Coffee-driven developer",
-    "🎨 3D modeling hobbyist with Blender",
     "📚 Constant learner - always exploring new tech",
     "🌙 Night owl - best code written after midnight"
 ]
