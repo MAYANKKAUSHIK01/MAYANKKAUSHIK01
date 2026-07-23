@@ -13,8 +13,10 @@
 </a>
 
 ---
-### 🌌 DIGITAL CRAFTSMAN • CODE ARCHITECT • ML EXPLORER
 <div align="center">
+  
+### 🌌 DIGITAL CRAFTSMAN • CODE ARCHITECT • ML EXPLORER
+
   
 [![Profile Views](https://komarev.com/ghpvc/?username=MAYANKKAUSHIK01&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/MAYANKKAUSHIK01)
 [![GitHub followers](https://img.shields.io/github/followers/MAYANKKAUSHIK01?style=for-the-badge&color=blue&labelColor=1a1a1a)](https://github.com/MAYANKKAUSHIK01?tab=followers)
