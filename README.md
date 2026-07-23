@@ -27,11 +27,9 @@
 ---
 <div align="center">
   
-## 🎯 ABOUT_ME.exe
-
-<div align="center">
-  
+## 🎯 ABOUT_ME.exe 
 ```python
+<div align="center">
 class Developer:
     def __init__(self):
         self.name = "Mayank Kaushik"
