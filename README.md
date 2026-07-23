@@ -26,19 +26,21 @@
 
 ---
 <div align="center">
-  
-## 🎯 ABOUT_ME.exe 
+
+## 🎯 ABOUT_ME.exe
+
+</div>
+
 ```python
-<div align="center">
 class Developer:
     def __init__(self):
         self.name = "Mayank Kaushik"
         self.role = "Full Stack Developer & ML Engineer"
-        self.location = "Bilaspur,Chhattisgarh In India"
-        self.education = "Computer Science Student(AI)"
+        self.location = "Bilaspur, Chhattisgarh, India"
+        self.education = "Computer Science Student (AI)"
         self.current_focus = ["AI/ML", "Web3", "Cloud Computing"]
         self.life_motto = "Code. Learn. Innovate. Repeat."
-    
+
     def get_tech_stack(self):
         return {
             "languages": ["Python", "JavaScript", "C++", "R"],
@@ -48,9 +50,10 @@ class Developer:
             "ml_ai": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
             "tools": ["Git", "Docker", "AWS", "Vercel"]
         }
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
+
 
 mayank = Developer()
 mayank.say_hi()
