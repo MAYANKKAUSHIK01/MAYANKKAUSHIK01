@@ -29,6 +29,8 @@
   
 ## 🎯 ABOUT_ME.exe
 
+<div align="center">
+  
 ```python
 class Developer:
     def __init__(self):
