@@ -1,42 +1,9 @@
-# Hey Visitor:
-```
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
-## I AM 
-<div align="center">
+<img width="332" height="170" alt="hey_visitor" src="https://github.com/user-attachments/assets/86c1dc1a-6802-41f4-8ad3-394733958d4b" />
+<img width="782" height="250" alt="art_github_safe" src="https://github.com/user-attachments/assets/75e0e946-b4fa-4a35-81a5-a4780c2ae5e7" />
+<img width="176" height="89" alt="i_am" src="https://github.com/user-attachments/assets/dee3b67a-3b69-403a-826e-2cfe24884f05" />
+<img width="2112" height="405" alt="mayank_kaushik_art_v2_full" src="https://github.com/user-attachments/assets/256fe27a-8d91-4222-98dc-ab1880e62170" />
 
-  
-```
-███╗   ███╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗  ██╗ █████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗
-████╗ ████║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██║ ██╔╝    ██║ ██╔╝██╔══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝
-██╔████╔██║███████║ ╚████╔╝ ███████║██╔██╗ ██║█████╔╝     █████╔╝ ███████║██║   ██║███████╗███████║██║█████╔╝ 
-██║╚██╔╝██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║██╔═██╗     ██╔═██╗ ██╔══██║██║   ██║╚════██║██╔══██║██║██╔═██╗ 
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██╗    ██║  ██╗██║  ██║╚██████╔╝███████║██║  ██║██║██║  ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-                                                                                                                  
-    ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-    ║  FULL STACK DEVELOPER • AI ENTHUSIAST • PROBLEM SOLVER • OPEN SOURCE CONTRIBUTOR                ║
-    ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 <a href="https://git.io/typing-svg">
   <img
@@ -45,25 +12,15 @@
   />
 </a>
 
-
 ---
-
-
-
 ### 🌌 DIGITAL CRAFTSMAN • CODE ARCHITECT • ML EXPLORER
-
+<div align="center">
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=MAYANKKAUSHIK01&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/MAYANKKAUSHIK01)
 [![GitHub followers](https://img.shields.io/github/followers/MAYANKKAUSHIK01?style=for-the-badge&color=blue&labelColor=1a1a1a)](https://github.com/MAYANKKAUSHIK01?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/MAYANKKAUSHIK01?style=for-the-badge&color=yellow&labelColor=1a1a1a)](https://github.com/MAYANKKAUSHIK01?tab=repositories)
 
-```
-    ╔════════════════════════════════════════════════════════════════════════════════════╗
-    ║    ⚡ TRANSFORMING IDEAS INTO CODE • BUILDING SOLUTIONS THAT MATTER ⚡            ║
-    ╚════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
+<img width="470" height="54" alt="transforming_ideas_box_v2" src="https://github.com/user-attachments/assets/c1275cfa-78a3-447e-8187-0d3cf5ce2774" />
 
 ---
 
@@ -161,65 +118,29 @@ mayank.say_hi()
 ## 📊 GITHUB_ANALYTICS
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                         │
-│                           📈 GITHUB PERFORMANCE METRICS 📈                              │
-│                                                                                         │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
   
+<img width="100%" height="40" alt="metrics_banner" src="https://github.com/user-attachments/assets/112ef513-a721-491a-aaaf-d9e5d55ebc18" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=MAYANKKAUSHIK01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAYANKKAUSHIK01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYANKKAUSHIK01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAYANKKAUSHIK01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="98%" />
 
-```
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
-
-## 🎮 CODING_ACTIVITY
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║    📊 WEEKLY DEVELOPMENT BREAKDOWN                                                   ║
-║                                                                                       ║
-║    ┌───────────────────────────────────────────────────────────────────────────┐      ║
-║    │  💻 Coming Soon - Connect WakaTime for real-time stats                   │      ║
-║    │  ⚡ Track coding time, languages, and productivity metrics               │      ║
-║    └───────────────────────────────────────────────────────────────────────────┘      ║
-║                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-
+  
 ### 💡 Random Dev Wisdom
+
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 </div>
 
 ---
-
-## 🚀 CURRENT_PROJECTS
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                          🔥 PROJECTS IN DEVELOPMENT 🔥                                ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+  
+<img width="100%"  alt="projects_banner" src="https://github.com/user-attachments/assets/ff85deb4-c775-4773-b89f-c4ef791ee3c1" />
+
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 📊 Status |
 |-----------|---------------|---------------|----------|
@@ -227,14 +148,10 @@ mayank.say_hi()
 | ⚡ E-Commerce | Full-featured online store | Next.js, MongoDB, Stripe | 🟡 In Progress |
 | 🌟 Data Viz | Interactive analytics dashboard | D3.js, FastAPI, PostgreSQL | 🟢 Active |
 
-```
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
+<div align="center">
+  
 ## 🎯 2026_GOALS
 
 ```javascript
@@ -262,32 +179,14 @@ const goals2026 = {
 
 <div align="center">
 
-## 💬 LETS_COLLABORATE
+<img width="100%"  alt="collab_banner" src="https://github.com/user-attachments/assets/3e458600-1ef0-4347-b943-e1f070b89226" />
 
-```
-╔═════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                         ║
-║    🤝 OPEN FOR COLLABORATIONS                                                          ║
-║                                                                                         ║
-║    ┌─────────────────────────────────────────────────────────────────────────────────┐  ║
-║    │  🌐  Full Stack Web Development                                                │  ║
-║    │  🤖  Machine Learning & AI Projects                                            │  ║
-║    │  📊  Data Science & Analytics                                                  │  ║
-║    └─────────────────────────────────────────────────────────────────────────────────┘  ║
-║                                                                                         ║
-╚═════════════════════════════════════════════════════════════════════════════════════════╝
-```
 
 ### 📧 Reach out to me:
 [![Email](https://img.shields.io/badge/Email-mayankkaushik730@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkaushik730@gmail.com)
 
 ---
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    🔥 CONNECT WITH ME 🔥
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img width="100%"  alt="connect_footer_banner" src="https://github.com/user-attachments/assets/31061387-6e1e-4a20-be26-f7fb09a69fb6" />
 
 ### ⚡ Fun Facts About Me
 
@@ -300,22 +199,10 @@ fun_facts = [
     "🌙 Night owl - best code written after midnight"
 ]
 ```
+<div align="center">
+  
+<img width="100%" alt="closing_footer_banner" src="https://github.com/user-attachments/assets/6913e19e-b969-4a02-a632-e7d4e2a5abe0" />
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-                    ⭐ Star my repos if you find them interesting!
-                    🍴 Fork and contribute - let's build together!
-                    💬 Feel free to reach out - always happy to connect!
-
-    ╔══════════════════════════════════════════════════════════════════════════════════╗
-    ║  "Code is like humor. When you have to explain it, it's bad." - Cory House      ║
-    ╚══════════════════════════════════════════════════════════════════════════════════╝
-
-                        Made with ❤️ and lots of ☕ by Mayank Kaushik
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 
 ![snake gif](https://github.com/MAYANKKAUSHIK01/MAYANKKAUSHIK01/blob/output/github-snake.svg)
