@@ -25,7 +25,6 @@
 <img width="470" height="54" alt="transforming_ideas_box_v2" src="https://github.com/user-attachments/assets/c1275cfa-78a3-447e-8187-0d3cf5ce2774" />
 
 ---
-<div align="center">
 
 ## 🎯 ABOUT_ME.exe
 
